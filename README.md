@@ -6,3 +6,8 @@ I am Rishik Reddy Endurthy
 - 🤔 I’m looking for help with anyone who had knowledge on cybersecurity 
 - 📫 How to reach me: Email id : rishikreddyendurthy@gmail.com
 - 😄 Pronouns: He/his
+
+----
+
+I Completed my Undergraduate Studies in Computer science and engineering from Amrita School of Engineering in Bangalore,India.
+During my undergraduate studies, i published a paper on " Predicting Landslides and Floods with Deep Learning " 
