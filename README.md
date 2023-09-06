@@ -5,7 +5,6 @@ I am Rishik Reddy Endurthy
 - 🌱 I’m currently learning BlockChain technology and cybersecurity
 - 🤔 I’m looking for help with anyone who had knowledge on cybersecurity 
 - 📫 Email id : rishikreddyendurthy@gmail.com
-- 😄 Pronouns: He/his
 
 ----
 
